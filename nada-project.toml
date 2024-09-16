@@ -1,0 +1,7 @@
+name = "variance_integer"
+version = "0.1.0"
+authors = []
+
+[[programs]]
+path = "src/variance_integer.py"
+prime_size = 128
